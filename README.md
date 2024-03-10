@@ -63,5 +63,5 @@ Soon
 - **Web3**
 - **Personal Finance**
 
- 
+*State as of 2024-03-10*
 
