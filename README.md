@@ -19,8 +19,8 @@ I am actively looking for interesting data projects to collaborate on. Contact m
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, NetworkX, NDlib
 - **Software**: Google Workspace (Sheets, Docs)
 - **Design**: Figma
-- **Marketing**: CRM, Email marketing, Social media, Event management
-- **Other**: Jupyter Notebook, GitHub, Zotero
+- **Marketing**: CRM, Email Marketing, Social Media, Event Management
+- **Other**: LaTeX, Jupyter Notebook, GitHub, Zotero
 
 
 ### Skills  
