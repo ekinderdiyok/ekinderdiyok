@@ -13,8 +13,6 @@ I'm based in Berlin. Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiy
 
 ------------
 
-**Data Analyst** with 3+ years of experience in survey type, behavioral, neural, social media, and network data.
-
 ### Experience
 
 - 3+ years of experience in experimental design, questionnaire development, empirical data collection.
