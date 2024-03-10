@@ -1,16 +1,52 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a **data analyst**!
 
-<!--
-**ekinderdiyok/ekinderdiyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------ 
+#### Let's Collaborate!
 
-Here are some ideas to get you started:
+While primarily dedicated to my passion projects at present, I remain receptive to engaging in new roles that align with my skills and interests. I am always enthusiastic about exploring unique initiatives and collaborations in the data analysis domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out to me here on through my email or [LinkedIn](https://www.linkedin.com/in/ekinderdiyok/).
+
+------------ 
+
+ * 🌍  I'm based in Berlin * ✉️  You can contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) * 🤝  I'm open to collaborating on interesting projects* 
+
+------------ 
+
+**Junior Data Analyst** with 3+ years of experience in survey type, behavioral, neural, social media, and network data.
+
+### Experience
+
+- 3+ years of experience in experimental design, questionnaire development, empirical data collection.
+- Worked as a data entry clerk at the [Altered States Database project](https://osf.io/8mbru/)
+- Wrote a master's thesis titled [Information Diffusion on X (formerly Twitter): a model comparison approach](https://github.com/ekinderdiyok/information-diffusion-on-twitter)
+
+### Technical Proficiencies
+
+- **Platforms**: None
+- **Technologies**: Jupyter Notebook
+- **Databases**: None
+- **Languages**: Python, SQL
+- **Interfaces**: None
+- **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, NetworkX, NDlib
+- **Software & Tools**: Google Workspace (Sheets, Docs), Figma,
+
+### Skills  
+
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+
+### Socials  <p align="left"> <a href="https://www.github.com/ekinderdiyok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ekinderdiyok/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ekin.derdiyok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
+
+### Tableau Dasboards
+Soon
+
+### Education
+- B.A. in Psychology at [Bogazici University, Istanbul](https://bogazici.edu.tr/en_US/Content/Academic/Undergraduate_Catalogue/Faculty_of_Arts_and_Sciences/Department_of_Psychology)
+- M.Sc in Cognitive Neuroscience at [Freie Universität Berlin](https://ewi-psy.fu-berlin.de/mcnb)
+
+### Hobbies and interests
+- **Dancing**: Bachata
+- **Video Games**: League of Legends, Pokémon, Dofus
+- **Web3**:
+ 
+
