@@ -15,11 +15,11 @@ I am actively looking for interesting data projects to collaborate on. Contact m
 
 ### Technical Proficiencies
 
-- **Languages**: Python, PostgreSQL
+- **Languages**: Python, PostgreSQL, MATLAB
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, NetworkX, NDlib
 - **Software**: Google Workspace (Sheets, Docs)
 - **Design**: Figma
-- **Marketing**: CRM, Email Marketing, Social Media, Event Management
+- **Marketing**: CRM, Email Marketing, Social Media, Event Management, Copywriting, Proposal writing
 - **Other**: LaTeX, Jupyter Notebook, GitHub, Zotero
 
 
