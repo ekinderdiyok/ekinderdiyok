@@ -9,7 +9,7 @@ While primarily dedicated to my passion projects at present, I remain receptive 
 
  * 🌍  I'm based in Berlin * Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) *🤝  I'm open to collaborating on interesting projects* 
 
-===============================
+------------
 
 **Junior Data Analyst** with 3+ years of experience in survey type, behavioral, neural, social media, and network data.
 
