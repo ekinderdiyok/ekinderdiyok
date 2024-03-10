@@ -1,17 +1,17 @@
-Hi, my name is Ekin. I'm a data analyst.
+Hi👋 my name is Ekin. I'm a data analyst.
 ------------
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ekin Derdiyok =====================================================================================================================================
 
 #### Let's Collaborate!
 
-While primarily dedicated to my passion projects at present, I remain receptive to engaging in new roles that align with my skills and interests. I am always enthusiastic about exploring unique initiatives and collaborations in the data analysis domain.
+I am looking forward to collaborate on interesting data projects!
+
+I'm based in Berlin. Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) 
 
 ------------
 
- * 🌍  I'm based in Berlin * Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) *🤝  I'm open to collaborating on interesting projects* 
-
-------------
-
-**Junior Data Analyst** with 3+ years of experience in survey type, behavioral, neural, social media, and network data.
+**Data Analyst** with 3+ years of experience in survey type, behavioral, neural, social media, and network data.
 
 ### Experience
 
