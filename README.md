@@ -7,7 +7,7 @@ Data Analyst, Neuroscientist, Behavioral Scientist
 
 ### Let's collaborate 🤝
 
-I am actively looking for interesting data projects to collaborate on. Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) or via [Linkedin].(https://linkedin.com/in/ekinderdiyok)
+I am actively looking for interesting data projects to collaborate on. Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) or via [Linkedin](https://linkedin.com/in/ekinderdiyok).
 
 ------------
 
