@@ -5,7 +5,7 @@ Hi, my name is Ekin, I'm a data analyst.
 
 While primarily dedicated to my passion projects at present, I remain receptive to engaging in new roles that align with my skills and interests. I am always enthusiastic about exploring unique initiatives and collaborations in the data analysis domain.
 
-===============================
+------------
 
  * 🌍  I'm based in Berlin * Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) *🤝  I'm open to collaborating on interesting projects* 
 
