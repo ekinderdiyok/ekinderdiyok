@@ -5,7 +5,7 @@ Data Analyst, Neuroscientist, Behavioral Scientist
 -----------------------------
 
 
-#### Let's collaborate 🤝
+### Let's collaborate 🤝
 
 I am actively looking for interesting data projects to collaborate on.
 
