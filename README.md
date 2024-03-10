@@ -1,4 +1,4 @@
-Hi, my name is Ekin, I'm a data analyst.
+Hi, my name is Ekin. I'm a data analyst.
 ------------
 
 #### Let's Collaborate!
