@@ -16,8 +16,8 @@ While primarily dedicated to my passion projects at present, I remain receptive 
 ### Experience
 
 - 3+ years of experience in experimental design, questionnaire development, empirical data collection.
-- Worked as a data entry clerk at the [Altered States Database project](https://osf.io/8mbru/)
-- Wrote a master's thesis titled [Information Diffusion on X (formerly Twitter): a model comparison approach](https://github.com/ekinderdiyok/information-diffusion-on-twitter)
+- Worked as a data entry clerk at the [Altered States Database project](https://osf.io/8mbru/).
+- Wrote a master's thesis titled [Information Diffusion on X (formerly Twitter): a model comparison approach](https://github.com/ekinderdiyok/information-diffusion-on-twitter).
 
 ### Technical Proficiencies
 
