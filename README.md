@@ -5,11 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 While primarily dedicated to my passion projects at present, I remain receptive to engaging in new roles that align with my skills and interests. I am always enthusiastic about exploring unique initiatives and collaborations in the data analysis domain.
 
-Reach out to me here on through my email or [LinkedIn](https://www.linkedin.com/in/ekinderdiyok/).
-
 ------------ 
 
- * 🌍  I'm based in Berlin * ✉️  You can contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) * 🤝  I'm open to collaborating on interesting projects* 
+ * 🌍  I'm based in Berlin * Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) *🤝  I'm open to collaborating on interesting projects* 
 
 ------------ 
 
