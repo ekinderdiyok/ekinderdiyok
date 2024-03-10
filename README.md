@@ -1,31 +1,25 @@
-👋 Hi, my name is Ekin.
+Hi, my name is Ekin.
 ===============================
-
-Data Analyst, Neuroscientist, Behavioral Scientist
------------------------------
-
+Data Analysis | Neuroscience | Behavioral Sciences
+--------------------------------
 
 ### Let's collaborate 🤝
 
 I am actively looking for interesting data projects to collaborate on. Contact me at [ekin.derdiyok@icloud.com](mailto:ekin.derdiyok@icloud.com) or via [Linkedin](https://linkedin.com/in/ekinderdiyok).
 
-------------
-
 ### Experience
 
-- 3+ years of experience in experimental design, questionnaire development, empirical data collection.
-- Worked as a data entry clerk at the [Altered States Database project](https://osf.io/8mbru/).
 - Wrote a master's thesis titled [Information Diffusion on X (formerly Twitter): a model comparison approach](https://github.com/ekinderdiyok/information-diffusion-on-twitter).
+- Worked as a data entry clerk at the [Altered States Database project](https://osf.io/8mbru/).
+- 3+ years of experience in experimental design, questionnaire development, empirical data collection during my education.
 
 ### Technical Proficiencies
 
-- **Platforms**: None
-- **Technologies**: Jupyter Notebook
-- **Databases**: None
-- **Languages**: Python, SQL
-- **Interfaces**: None
-- **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, NetworkX, NDlib
-- **Software & Tools**: Google Workspace (Sheets, Docs), Figma,
+- **Languages**: Python, PostgreSQL
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, NetworkX, NDlib
+- **Software**: Google Workspace (Sheets, Docs)
+- **Design**: Figma
+- **Other**: Jupyter Notebook, GitHub
 
 ### Skills  
 
@@ -45,6 +39,6 @@ Soon
 ### Hobbies and interests
 - **Dancing**: Bachata
 - **Video Games**: League of Legends, Pokémon, Dofus
-- **Web3**:
+- **Web3**
  
 
