@@ -45,7 +45,7 @@ I am actively looking for interesting data projects to collaborate on. Contact m
 </p>
 
 ### Marketing
-- CRM, Email Marketing, Social Media, Event Management, Copywriting, Proposal writing
+- CRM, Webflow, Google Analytics, Email Marketing, Social Media, Event Management, Copywriting
 
 ### Tableau Dasboards
 Soon
