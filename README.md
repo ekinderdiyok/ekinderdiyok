@@ -22,7 +22,7 @@ I am a data analyst trained in Ψbehavioral-, 🌐network-, and 🧠neuroscience
 ### Mental Health Database: a learning project
 - **Description:** Created a local database, populated with tables, queried information, and an entity-relationship diagram
 - **Technologies Used:** PostgreSQL, Tableau, Python, Microsoft Visual Studio Code
-- **Repository:**
+- **Repository:** [Here goes]
 
 ### Mental Health Database: a learning project
 - **Description:** Created a local database, populated with tables, queried information, and an entity-relationship diagram
