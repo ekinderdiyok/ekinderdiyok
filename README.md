@@ -51,7 +51,7 @@ I am a data analyst trained in Ψbehavioral-, 🌐network-, and 🧠neuroscience
 </p>
 
 ## Academia
-Here are the list of tools I have been using throughout my studies
+List of tools I used during my studies.
 | Icon | Name | Explanation |
 | :--: | :--- | :---------- |
 | <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1W6K7dIo9HNwSKdK-E3vTG82gbyA_wbNj" width="24" height="24" alt="Matlab" /></a> | MATLAB | A high-level language and interactive environment for numerical computation, visualization, and programming. |
@@ -60,7 +60,7 @@ Here are the list of tools I have been using throughout my studies
 | <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="64.8" height="24" alt="LaTeX" /></a> | LaTeX | A document preparation system used for the communication and publication of typesetted documents. |
 
 ### Marketing
-- CRM, Webflow, Google Analytics, Email Marketing, Social Media, Event Management, Copywriting
+- CRM, Website CMS, Google Analytics, Email Marketing, Social Media, Event Management, Copywriting, Content Marketing
 
 ### Tableau Dashboards
 Soon
