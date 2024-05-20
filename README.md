@@ -62,56 +62,10 @@ Here are the list of tools I have been using throughout my studies
 ### Marketing
 - CRM, Webflow, Google Analytics, Email Marketing, Social Media, Event Management, Copywriting
 
-### Tableau Dasboards
+### Tableau Dashboards
 Soon
-
-### Education
-- B.A. in Psychology at [Bogazici University, Istanbul](https://bogazici.edu.tr/en_US/Content/Academic/Undergraduate_Catalogue/Faculty_of_Arts_and_Sciences/Department_of_Psychology)
-- M.Sc in Cognitive Neuroscience at [Freie Universität Berlin](https://ewi-psy.fu-berlin.de/mcnb)
 
 ### My bookshelf
 ![Book Cover 1](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) ![Book Cover 2](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls)
 
-### Hobbies and interests
-- **Dancing**: Bachata
-- ***Fitness**
-- **Video Games**: League of Legends, Pokémon, Dofus
-- **Web3**
-- **Personal Finance**
-
-*State as of 2024-03-10*
-
-# Marketing Tools
-
-<table>
-    <tr>
-        <th>Image</th>
-        <th>Tool Name</th>
-        <th>Explanation</th>
-    </tr>
-    <tr>
-        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
-        <td>Google Analytics</td>
-        <td>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.</td>
-    </tr>
-    <tr>
-        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
-        <td>Mailchimp</td>
-        <td>Mailchimp is an all-in-one marketing platform for small businesses, known for its email marketing service.</td>
-    </tr>
-    <tr>
-        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
-        <td>Hootsuite</td>
-        <td>Hootsuite is a social media management platform that allows users to schedule and manage their social media posts.</td>
-    </tr>
-    <tr>
-        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
-        <td>Buffer</td>
-        <td>Buffer is a software application for the web and mobile, designed to manage accounts in social networks, providing the means for a user to schedule posts.</td>
-    </tr>
-    <tr>
-        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
-        <td>SEMrush</td>
-        <td>SEMrush is an online visibility management and content marketing SaaS platform, used by marketers to improve their SEO and SEM efforts.</td>
-    </tr>
-</table>
+*State as of 2024-05-19*
