@@ -5,8 +5,8 @@ I am a data analyst trained in Ψbehavioral-, 🌐network-, and 🧠neuroscience
 ## Projects
 
 ### Information Diffusion on X (formerly Twitter): a model comparison approach
-- **Description:** Brief description of the project.
-- **Technologies Used:** Python, LaTeX, Figma
+- **Description:** Preprocessing, modeling, and visualizing Twitter API data. Creating network topology.
+- **Technologies Used:** Python, LaTeX, OpenAI API, Figma
 - **Repository:** [Information Diffusion on X (formerly Twitter): a model comparison approach](https://github.com/ekinderdiyok/information-diffusion-on-twitter).
 
 ### Altered States Database
@@ -56,8 +56,8 @@ Here are the list of tools I have been using throughout my studies
 | :--: | :--- | :---------- |
 | <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1W6K7dIo9HNwSKdK-E3vTG82gbyA_wbNj" width="24" height="24" alt="Matlab" /></a> | MATLAB | A high-level language and interactive environment for numerical computation, visualization, and programming. |
 | <a href="https://www.qualtrics.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1AR-xLET1ZfoN9dYOIHtgcIqhxqOzx1q5" width="75.13" height="24" alt="Qualtrics" /></a> | Qualtrics | An online survey software for data collection and analysis. |
-| <a href="https://zotero.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RSC6gGRvJP7Plav_VxMo63zPDjgxlBM5" width="24" height="24" alt="Zotero" /></a> | Zotero | A free, easy-to-use tool to help you collect, organize, cite, and share research. |
-| <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="64.8" height="24" alt="LaTeX" /></a> | LaTeX | A document preparation system used for the communication and publication of scientific documents. |
+| <a href="https://zotero.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RSC6gGRvJP7Plav_VxMo63zPDjgxlBM5" width="24" height="24" alt="Zotero" /></a> | Zotero | A tool to help you collect, organize, cite, and share research. |
+| <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="64.8" height="24" alt="LaTeX" /></a> | LaTeX | A document preparation system used for the communication and publication of typesetted documents. |
 
 
 
