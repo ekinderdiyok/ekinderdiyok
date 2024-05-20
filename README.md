@@ -12,6 +12,7 @@ I am actively looking for interesting data projects to collaborate on. Contact m
 - Wrote a master's thesis titled [Information Diffusion on X (formerly Twitter): a model comparison approach](https://github.com/ekinderdiyok/information-diffusion-on-twitter).
 - Worked as a data entry clerk at the [Altered States Database project](https://osf.io/8mbru/).
 - 3+ years of experience in experimental design, questionnaire development, empirical data collection during my education.
+- 
 
 ### Technical Proficiencies
 
@@ -55,6 +56,12 @@ Soon
 - M.Sc in Cognitive Neuroscience at [Freie Universität Berlin](https://ewi-psy.fu-berlin.de/mcnb)
 
 ### My bookshelf
+Here are some of my favorite books on data analytics:
+
+| ![Book Cover 1](https://drive.google.com/thumbnail?id=1T26yP_78lzMtZpwqnN52co7YmWa9vhT0) | ![Book Cover 2](https://example.com/book-cover2.jpg) | ![Book Cover 3](https://example.com/book-cover3.jpg) |
+| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
+| [Book Title 1](https://example.com/book1)           | [Book Title 2](https://example.com/book2)           | [Book Title 3](https://example.com/book3)           |
+
 
 ### Hobbies and interests
 - **Dancing**: Bachata
@@ -65,3 +72,39 @@ Soon
 
 *State as of 2024-03-10*
 
+# Marketing Tools
+
+# Marketing Tools
+
+<table>
+    <tr>
+        <th>Image</th>
+        <th>Tool Name</th>
+        <th>Explanation</th>
+    </tr>
+    <tr>
+        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
+        <td>Google Analytics</td>
+        <td>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.</td>
+    </tr>
+    <tr>
+        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
+        <td>Mailchimp</td>
+        <td>Mailchimp is an all-in-one marketing platform for small businesses, known for its email marketing service.</td>
+    </tr>
+    <tr>
+        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
+        <td>Hootsuite</td>
+        <td>Hootsuite is a social media management platform that allows users to schedule and manage their social media posts.</td>
+    </tr>
+    <tr>
+        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
+        <td>Buffer</td>
+        <td>Buffer is a software application for the web and mobile, designed to manage accounts in social networks, providing the means for a user to schedule posts.</td>
+    </tr>
+    <tr>
+        <td><img src="https://via.placeholder.com/100" alt="Placeholder Image"></td>
+        <td>SEMrush</td>
+        <td>SEMrush is an online visibility management and content marketing SaaS platform, used by marketers to improve their SEO and SEM efforts.</td>
+    </tr>
+</table>
