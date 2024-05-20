@@ -58,7 +58,7 @@ Soon
 ### My bookshelf
 Here are some of my favorite books on data analytics:
 
-| ![Book Cover 1](https://drive.google.com/thumbnail?id=1T26yP_78lzMtZpwqnN52co7YmWa9vhT0) | ![Book Cover 2](https://example.com/book-cover2.jpg) | ![Book Cover 3](https://example.com/book-cover3.jpg) |
+| ![Book Cover 1](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) | ![Book Cover 2](https://example.com/book-cover2.jpg) | ![Book Cover 3](https://example.com/book-cover3.jpg) |
 | :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
 | [Book Title 1](https://example.com/book1)           | [Book Title 2](https://example.com/book2)           | [Book Title 3](https://example.com/book3)           |
 
