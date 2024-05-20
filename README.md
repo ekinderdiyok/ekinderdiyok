@@ -59,19 +59,6 @@ Here are the list of tools I have been using throughout my studies
 | <a href="https://zotero.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RSC6gGRvJP7Plav_VxMo63zPDjgxlBM5" width="24" height="24" alt="Zotero" /></a> | Zotero | A tool to help you collect, organize, cite, and share research. |
 | <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="64.8" height="24" alt="LaTeX" /></a> | LaTeX | A document preparation system used for the communication and publication of typesetted documents. |
 
-
-
-
-
-
-<p align="left"> 
- <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1W6K7dIo9HNwSKdK-E3vTG82gbyA_wbNj" width="36" height="36" alt="Matlab" /></a> 
- <a href="https://zotero.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RSC6gGRvJP7Plav_VxMo63zPDjgxlBM5" width="36" height="36" alt="Zotero" /></a> 
- <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="97.2" height="36" alt="LaTeX" /></a>
- <a href="https://www.qualtrics.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1AR-xLET1ZfoN9dYOIHtgcIqhxqOzx1q5" width="112.69" height="36" alt="Qualtrics" /></a>
- 
-</p>
-
 ### Marketing
 - CRM, Webflow, Google Analytics, Email Marketing, Social Media, Event Management, Copywriting
 
