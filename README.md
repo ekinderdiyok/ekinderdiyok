@@ -13,20 +13,6 @@ Here is a list of projects I have worked on.
 | The effect of emotion modulation on time perception             | Worked as a data entry clerk                                                                                        | MATLAB, Psychtoolbox                             | [GitHub](https://github.com/ekinderdiyok/the-effect-of-emotion-modulation-on-time-perception)                                                     |
 | Mental Health Database: a learning project                      | Created a local database, populated with tables, queried information, and an entity-relationship diagram             | PostgreSQL, Tableau, Python, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database-learning) |
 
-
-### Python Libraries
-
-<p align="left"> 
- <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1ffc6pYnVcS7I3xXhGzn6ceT7xrHFCtj8" width="36" height="36" alt="Matplotlib" /></a> 
- <a href="https://networkx.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=17uZpXtrUXr9xNxe7eYL6YkAk7eUtcsjb" width="36" height="36" alt="NetworkX" /></a> 
- <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1kJcfQTKqAukxrrqEj1SxHW9R2O6SL72R" width="36" height="36" alt="Numpy" /></a> 
- <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1Z66RQP_HNslrY7Szv1cQNfIgzseGIQfI" width="36" height="36" alt="Pandas" /></a> 
- <a href="https://scipy.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RiSRwNb22cfZ6QFvmXEzCLEj61oBFF42" width="36" height="36" alt="Scipy" /></a> 
- <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1awQyLf53PwjBlINMaqZHUnZp7yDZOCyV" width="36" height="36" alt="Seaborn" /></a>
- <a href="https://ndlib.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1UcLSiW96ZzRjIycj-JfyeR9FoBQpA883" width="133.78" height="36" alt="NDlib" /></a>
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=133-LpBI9-GBu3PD23hkDb5CrsebAnMJf" width="66.78" height="36" alt="Scikit-learn" /></a> 
-</p>
-
 ## Academia
 List of tools I used during my studies.
 | Icon | Name | Explanation |
