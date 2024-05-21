@@ -6,12 +6,13 @@ I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscien
 ## Projects
 Here is a list of projects I have worked on.
 
+
 | Name                                                         | Description                                                                                                          | Technologies Used                                | Repo                                                                                                    |
 |:----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
-| Information Diffusion on X (formerly Twitter): a model comparison approach | Preprocessing, modeling, and visualizing Twitter API data. Creating network topology.                                | Python, LaTeX, OpenAI API, Figma                 | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter)                |
+| Information Diffusion on X (formerly Twitter): a model comparison approach | Preprocessing, modeling, and visualizing Twitter API data. Creating network topology.                                | **Python**, LaTeX, OpenAI API, Figma                 | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter)                |
 | Altered States Database                                         | Worked as a scientific data entry clerk. Publication can be found [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel                                  | [osf.io](https://osf.io/8mbru/)                                                     |
 | The effect of emotion modulation on time perception             | Worked as a data entry clerk                                                                                        | MATLAB, Psychtoolbox                             | [GitHub](https://github.com/ekinderdiyok/the-effect-of-emotion-modulation-on-time-perception)                                                     |
-| Mental Health Database: a learning project                      | Created a local database, populated with tables, queried information, and an entity-relationship diagram             | PostgreSQL, Tableau, Python, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database-learning) |
+| Mental Health Database: a learning project                      | Created a local database, populated with tables, queried information, and an entity-relationship diagram             | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database-learning) |
 
 ## Academia
 List of tools I used during my studies.
@@ -32,6 +33,8 @@ Coming soon.
 ### My bookshelf 📚
 Books I love and learned a lot from.
 
-![Book Cover 1](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) ![Book Cover 2](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls)
+![Book Cover 1](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) ![Book Cover 2](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls) ![Book Cover 2](https://drive.google.com/thumbnail?id=1LfDjmb6BPx_9_0obdAk-WDbvKyLCIp-Q)
+
+
 
 *State as of 2024-05-21*
