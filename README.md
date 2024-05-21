@@ -1,7 +1,7 @@
 # Hi there, I'm Ekin.
 Welcome to my GitHub profile where I showcase my data analytics portfolio!
 
-I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscience. 
+I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscience. I am open to work in analytics field.
 
 ## Projects
 Here is a list of projects I have worked on.
