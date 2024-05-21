@@ -12,9 +12,7 @@ Here is a list of projects I have worked on.
 | Altered States Database                                         | Worked as a scientific data entry clerk. Publication can be found [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel                                  | [osf.io](https://osf.io/8mbru/)                                                     |
 | The effect of emotion modulation on time perception             | Worked as a data entry clerk                                                                                        | MATLAB, Psychtoolbox                             | [GitHub](https://github.com/ekinderdiyok/the-effect-of-emotion-modulation-on-time-perception)                                                     |
 | Mental Health Database: a learning project                      | Created a local database, populated with tables, queried information, and an entity-relationship diagram             | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database-learning) |
-
-## Tableau Dashboards
-Coming soon.
+| My first Tableau Viz                                           | Here I visualize some data                                                                                           | **Tableau**                                      | [Tableau](https://public.tableau.com/app/profile/ekinderdiyok)                                                |
 
 ## Academia
 List of tools I used during my studies.
