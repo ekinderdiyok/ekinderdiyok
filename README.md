@@ -1,5 +1,5 @@
 # Hi there, I'm Ekin.
-Welcome to my GitHub profile where I showcase my data analytics portfolio.
+Welcome to my GitHub profile where I showcase my data analytics portfolio!
 
 I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscience. 
 
