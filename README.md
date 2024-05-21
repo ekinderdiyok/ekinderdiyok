@@ -1,11 +1,10 @@
 # Hi there, I'm Ekin.
 Welcome to my GitHub profile where I showcase my data analytics portfolio!
 
-I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscience. I am open to work in analytics field.
+I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscience. I am open to work.
 
 ## Projects
 Here is a list of projects I have worked on.
-
 
 | Name                                                         | Description                                                                                                          | Technologies Used                                | Repo                                                                                                    |
 |:----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
@@ -13,6 +12,9 @@ Here is a list of projects I have worked on.
 | Altered States Database                                         | Worked as a scientific data entry clerk. Publication can be found [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel                                  | [osf.io](https://osf.io/8mbru/)                                                     |
 | The effect of emotion modulation on time perception             | Worked as a data entry clerk                                                                                        | MATLAB, Psychtoolbox                             | [GitHub](https://github.com/ekinderdiyok/the-effect-of-emotion-modulation-on-time-perception)                                                     |
 | Mental Health Database: a learning project                      | Created a local database, populated with tables, queried information, and an entity-relationship diagram             | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database-learning) |
+
+## Tableau Dashboards
+Coming soon.
 
 ## Academia
 List of tools I used during my studies.
@@ -23,18 +25,20 @@ List of tools I used during my studies.
 | <a href="https://zotero.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RSC6gGRvJP7Plav_VxMo63zPDjgxlBM5" width="24" height="24" alt="Zotero" /></a> | Zotero | A tool to help you collect, organize, cite, and share research. |
 | <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="64.8" height="24" alt="LaTeX" /></a> | LaTeX | A document preparation system used for the communication and publication of typesetted documents. |
 
-### Marketing
+## Marketing
 I handled the following tasks during my working student positions:
-- Google Analytics, SEO, Figma (design), Mailchimp (Email Marketing),  Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Management, Copywriting, Content Marketing,
+- Google Analytics, SEO, Figma (design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Management, Copywriting.
 
-### Tableau Dashboards
-Coming soon.
 
-### My bookshelf 📚
+
+## My bookshelf 📚
 Books I love and learned a lot from.
 
-![Book Cover 1](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) ![Book Cover 2](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls) ![Book Cover 2](https://drive.google.com/thumbnail?id=1LfDjmb6BPx_9_0obdAk-WDbvKyLCIp-Q)
+
+![Book Cover 1](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) ![Book Cover 2](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls) 
+![Book Cover 3](https://drive.google.com/thumbnail?id=1LfDjmb6BPx_9_0obdAk-WDbvKyLCIp-Q) ![Book Cover 4](https://drive.google.com/thumbnail?id=1mEHbUa0YJf6HMzr5V_cUnXj85LkdI1wk)
 
 
 
-*State as of 2024-05-21*
+*Thank you for visiting my portfolio :)* <br>
+~Ekin
