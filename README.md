@@ -1,7 +1,5 @@
-# Hi there, I'm Ekin.
-Welcome to my GitHub profile where I showcase my data analytics portfolio!
-
-I am a data analyst trained in 𝚿behavioral-, 🌐network-, and 🧠neuroscience. 
+# Welcome to my GitHub profile!
+Here, I showcase my data analytics portfolio and my competences.
 
 I am open to work. You can find my CV (resume) and contact information on the left, just below my profile picture.
 
@@ -16,17 +14,10 @@ I am open to work. You can find my CV (resume) and contact information on the le
 | My first Tableau Viz | Here I visualize some data | **Tableau** | [Tableau](https://public.tableau.com/app/profile/ekinderdiyok) |
 
 ### Academia
-List of tools I used during my studies.
-| Icon | Name | Explanation |
-| :--: | :--- | :---------- |
-| <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1W6K7dIo9HNwSKdK-E3vTG82gbyA_wbNj" width="24" height="24" alt="MATLAB" /></a> | MATLAB | Programming language for numerical computation and data analysis |
-| <a href="https://www.qualtrics.com/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1AR-xLET1ZfoN9dYOIHtgcIqhxqOzx1q5" width="75.13" height="24" alt="Qualtrics" /></a> | Qualtrics | An online survey software for data collection and analysis. |
-| <a href="https://zotero.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1RSC6gGRvJP7Plav_VxMo63zPDjgxlBM5" width="24" height="24" alt="Zotero" /></a> | Zotero | A tool for collecting, organizing, citing, and sharing research. |
-| <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"><img src="https://drive.google.com/thumbnail?id=1atInc2l02_mXEaUZo1qwbCR7VVZJFRjG" width="64.8" height="24" alt="LaTeX" /></a> | LaTeX | A typesetting system for pixel-perfect, reproducible reports and presentations. |
+LaTeX (free, open-source, version controlled typesetting), MATLAB (programming), qualtrics (survey data collection), Zotero (bibliography), machine learning (regression, clustering, classification, PCA, NLP)
 
 ### Marketing
-Apart from my data skills, I bring marketing expertise to the table. Below are my competences.
-- Google Analytics, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Management.
+Google Analytics, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Management.
 
 ### My bookshelf 📚
 Books I love and learned a lot from. <br>
@@ -35,5 +26,5 @@ Books I love and learned a lot from. <br>
 ![The Visual Display of Quantitative Information](https://drive.google.com/thumbnail?id=1LfDjmb6BPx_9_0obdAk-WDbvKyLCIp-Q) 
 ![Data Science for Business](https://drive.google.com/thumbnail?id=1mEHbUa0YJf6HMzr5V_cUnXj85LkdI1wk)
 
-*Thank you for visiting my portfolio :)* <br>
+*Thank you for visiting my Github Profile :)* <br>
 **Ekin Derdiyok**
