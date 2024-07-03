@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 Here, I showcase my data analytics portfolio and my competences.
 
-I am open to work. You can find my [CV (resume)](https://ekinderdiyok.github.io/cv) and [email](mailto:ekin.derdiyok@icloud.com) on the left, just below my profile picture.
+I am open to work. You can find my <a href="https://ekinderdiyok.github.io/cv" target="_blank">CV (resume)</a> and [email](mailto:ekin.derdiyok@icloud.com) on the left, just below my profile picture.
 
 ### Projects
 | Name | Description | Technologies | Visit |
