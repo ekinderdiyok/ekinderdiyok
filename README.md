@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 Here, I showcase my data analytics portfolio and my competences.
 
-I am open to work. You can find my CV (resume) and contact information on the left, just below my profile picture.
+I am open to work. You can find my [CV (resume)](https://ekinderdiyok.github.io/cv) and [email](mailto:ekin.derdiyok@icloud.com) on the left, just below my profile picture.
 
 ### Projects
 | Name | Description | Technologies | Visit |
@@ -9,15 +9,16 @@ I am open to work. You can find my CV (resume) and contact information on the le
 | Information Diffusion on 𝕏: a model comparison approach | Master's thesis. Modeled Twitter API data, programmed NLP via OpenAI API, constructed social network graphs via NetworkX. | **Python**, LaTeX, OpenAI API, Jupyter, Figma | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter) |
 | Altered States Database | Survey data meta-analysis. Worked as data entry clerk, co-authored a publication [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel | [asdb.info](https://asdb.info) |
 | Experience sampling Twitter users' motives | Analyzed real-time user reports, clustered users using k-means and t-SNE. | **Python**, Jupyter  | [GitHub](https://github.com/ekinderdiyok/experience-sampling-on-twitter) |
-| Mental Health Database | Created a local database, populated with tables, queried information, sketched an entity-relationship diagram (ERD) | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database) |
-| My first Tableau Viz | Here I visualize some data | **Tableau** | [Tableau](https://public.tableau.com/app/profile/ekinderdiyok) |
-| TikTok and Media Multitasking | Engaging decision neuroscience poster presentation | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
+| Mental Health Database | Created a local database, populated with tables, queried information, sketched an entity-relationship diagram (ERD). | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database) |
+| TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
+
+### Tableau
 
 ### Academia
 LaTeX (free, open-source, version controlled typesetting), MATLAB (programming), qualtrics (survey data collection), Zotero (bibliography), machine learning (regression, clustering, classification, PCA, NLP)
 
 ### Marketing
-Google Analytics, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Management.
+Google Analytics 4, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
 
 ### My bookshelf 📚
 Books I love and learned a lot from. <br>
@@ -25,6 +26,3 @@ Books I love and learned a lot from. <br>
 ![Learning the Pandas Library](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls) 
 ![The Visual Display of Quantitative Information](https://drive.google.com/thumbnail?id=1LfDjmb6BPx_9_0obdAk-WDbvKyLCIp-Q) 
 ![Data Science for Business](https://drive.google.com/thumbnail?id=1mEHbUa0YJf6HMzr5V_cUnXj85LkdI1wk)
-
-*Thank you for visiting my Github Profile :)* <br>
-**Ekin Derdiyok**
