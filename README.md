@@ -6,7 +6,7 @@ I am open to work. You can find my <a href="https://ekinderdiyok.github.io/cv" t
 ### Projects
 | Name | Description | Technologies | Visit |
 | :--- | :---------- | :----------- | :---- |
-| Information Diffusion on 𝕏: a model comparison approach | Master's thesis. Modeled Twitter API data, programmed NLP via OpenAI API, constructed social network graphs via NetworkX. | **Python**, LaTeX, OpenAI API, Jupyter, Figma | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter) |
+| Information Diffusion on 𝕏: a model comparison approach | Modeled Twitter API data, programmed NLP via OpenAI API, constructed social network graphs via NetworkX. | **Python**, LaTeX, OpenAI API, Jupyter, Figma | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter) |
 | Altered States Database | Survey data meta-analysis. Worked as data entry clerk, co-authored a publication [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel | [asdb.info](https://asdb.info) |
 | Experience sampling Twitter users' motives | Analyzed real-time user reports, clustered users using k-means and t-SNE. | **Python**, Jupyter  | [GitHub](https://github.com/ekinderdiyok/experience-sampling-on-twitter) |
 | Mental Health Database | Created a local database, populated with tables, queried information, sketched an entity-relationship diagram (ERD). | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database) |
