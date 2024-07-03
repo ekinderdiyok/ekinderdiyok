@@ -13,11 +13,11 @@ I am open to work. You can find my <a href="https://ekinderdiyok.github.io/cv" t
 | My Tableau Vizzes | Here you can find all my Tableau data visualization projects. | **Tableau** | [Tableau Public](https://public.tableau.com/app/profile/ekinderdiyok) |
 | TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
 
-### Academia
-LaTeX (free, open-source, version controlled typesetting), MATLAB (programming), qualtrics (survey data collection), Zotero (bibliography), machine learning (regression, clustering, classification, PCA, NLP)
-
 ### Marketing
 Google Analytics 4, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
+
+### Academia
+LaTeX (free, open-source, version controlled typesetting), MATLAB (programming), qualtrics (survey data collection), Zotero (bibliography), machine learning (regression, clustering, classification, PCA, NLP)
 
 ### Books I love and learned a lot from 📚🐛
 ![Storytelling with data](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) 
