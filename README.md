@@ -10,9 +10,8 @@ I am open to work. You can find my <a href="https://ekinderdiyok.github.io/cv" t
 | Altered States Database | Survey data meta-analysis. Worked as data entry clerk, co-authored a publication [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel | [asdb.info](https://asdb.info) |
 | Experience sampling Twitter users' motives | Analyzed real-time user reports, clustered users using k-means and t-SNE. | **Python**, Jupyter  | [GitHub](https://github.com/ekinderdiyok/experience-sampling-on-twitter) |
 | Mental Health Database | Created a local database, populated with tables, queried information, sketched an entity-relationship diagram (ERD). | **PostgreSQL**, **Tableau**, **Python**, Microsoft Visual Studio Code | [GitHub](https://github.com/ekinderdiyok/mental-health-database) |
+| My Tableau Vizzes | Here you can find all my Tableau data visualization projects | **Tableau** | [Tableau Public](https://public.tableau.com/app/profile/ekinderdiyok) |
 | TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
-
-### Tableau
 
 ### Academia
 LaTeX (free, open-source, version controlled typesetting), MATLAB (programming), qualtrics (survey data collection), Zotero (bibliography), machine learning (regression, clustering, classification, PCA, NLP)
@@ -20,8 +19,7 @@ LaTeX (free, open-source, version controlled typesetting), MATLAB (programming),
 ### Marketing
 Google Analytics 4, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
 
-### My bookshelf 📚
-Books I love and learned a lot from. <br>
+### Books I love and learned a lot from 📚🐛
 ![Storytelling with data](https://drive.google.com/thumbnail?id=12Awyy36mNOVRb3FgWeBJSwm4HRPemh37) 
 ![Learning the Pandas Library](https://drive.google.com/thumbnail?id=12npdlqdtQzBsq6JkuMEzAx_AyVtAfSls) 
 ![The Visual Display of Quantitative Information](https://drive.google.com/thumbnail?id=1LfDjmb6BPx_9_0obdAk-WDbvKyLCIp-Q) 
