@@ -16,7 +16,7 @@ I am open to work. You can find my <a href="https://ekinderdiyok.github.io/cv" t
 | TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
 
 ### Marketing
-Google Analytics 4, SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
+Google Search Console, Google Analytics 4 (GA4), SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
 
 ### Academia
 LaTeX (free, open-source, version controlled typesetting), MATLAB (programming), qualtrics (survey data collection), Zotero (bibliography), machine learning (regression, clustering, classification, PCA, NLP)
