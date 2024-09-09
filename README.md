@@ -7,10 +7,10 @@ I am open to work. You can find my <a href="https://ekinderdiyok.github.io/cv" t
 | Name | Description | Technologies | Visit |
 | :--- | :---------- | :----------- | :---- |
 | User Analytics Dashboard | Generates synthetic data, builds a sleek, interactive Tableau dashboard, computes subscription KPIs. | **Tableau** | [Tableau](https://public.tableau.com/app/profile/ekinderdiyok/viz/UserAnalyticsDashboard_17258945368250/UserAnalyticsDashboard)
-| Customer Segmentation: Online Fashion Retailer | Generates synthetic data, builds a database, runs queries, segments customers using k-means and Recency-Frequency-Monetary (RFM). | **Python**, **SQL**, Jupyter | [GitHub](https://github.com/ekinderdiyok/customer-segmentation)
+| Customer Segmentation (Online Fashion Retailer) | Generates synthetic data, builds a database, runs queries, segments customers using k-means and Recency-Frequency-Monetary (RFM). | **Python**, **SQL**, Jupyter | [GitHub](https://github.com/ekinderdiyok/customer-segmentation)
 | Causal Inference: Does being a plus member ACTUALLY increase customer lifetime value? | Sketches Business Model Canvas, discusses A/B testing and RCTs, codes a proof-of-concept.   | CausalWizard, DoWhy, **Python** | [GitHub](https://github.com/ekinderdiyok/causal-inference)
-| Information Diffusion on 𝕏: a model comparison approach | Modeled Twitter API data, programmed NLP via OpenAI API, constructed social network graphs via NetworkX. | **Python**, LaTeX, OpenAI API, Figma | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter) |
-| Altered States Database | Survey data meta-analysis. Worked as data entry clerk, co-authored a publication [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel | [asdb.info](https://asdb.info) |
+| Information Diffusion on 𝕏 (Twitter): a model comparison approach | Models Twitter API data, programs NLP via OpenAI API, constructs social network graphs via NetworkX. | **Python**, LaTeX, OpenAI API, Figma | [GitHub](https://github.com/ekinderdiyok/information-diffusion-on-twitter) |
+| Altered States Database | Survey data meta-analysis. Logs scientific data, co-authors a publication [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel | [asdb.info](https://asdb.info) |
 | TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
 
 ### Marketing
