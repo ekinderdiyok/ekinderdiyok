@@ -5,6 +5,7 @@ Here, I showcase my data analytics portfolio and my competences.
 | Name | Description | Technologies | Visit |
 | :--- | :---------- | :----------- | :---- |
 | Campaign Analytics (Meal Kit Delivery) | Sets up a SQLite database with synthetic data modeling, runs integrity/validity checks, calculates summary statistics and growth KPIs  | **SQL** | [GitHub](https://github.com/ekinderdiyok/mealkit-delivery)
+| Annual KPI Reporting (Dining Platform) | Calculates marketing, product, B2B KPIs. Builds a dashboard; breaks down by geography | **Tableau** | [Tableau](https://public.tableau.com/views/Quandoo_17418135937260/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 | User Analytics Dashboard | Generates synthetic data, builds a sleek, interactive Tableau dashboard, computes subscription KPIs. | **Tableau** | [Tableau](https://public.tableau.com/app/profile/ekinderdiyok/viz/UserAnalyticsDashboard_17258945368250/UserAnalyticsDashboard)
 | Customer Segmentation (Online Fashion Retailer) | Generates synthetic data, builds a database, runs queries, segments customers using k-means and Recency-Frequency-Monetary (RFM). | **Python**, **SQL**, Jupyter | [GitHub](https://github.com/ekinderdiyok/customer-segmentation)
 | Causal Inference: Does being a plus member ACTUALLY increase customer lifetime value? | Sketches Business Model Canvas, discusses A/B testing and RCTs, codes a proof-of-concept.   | **Python**, DoWhy | [GitHub](https://github.com/ekinderdiyok/causal-inference)
