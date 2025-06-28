@@ -13,6 +13,9 @@ Here, I showcase my data analytics portfolio and my competences.
 | Altered States Database | Survey data meta-analysis. Logs scientific data, co-authors a publication [here](https://www.nature.com/articles/s41597-022-01822-4). | Microsoft Excel | [asdb.info](https://asdb.info) |
 | TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
 
+### Data Processing
+Google Apps Script (cloud-based Javascript platform), 
+
 ### Marketing
 Google Search Console, Google Analytics 4 (GA4), SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
 
