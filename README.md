@@ -14,7 +14,7 @@ Here, I showcase my data analytics portfolio and my competences.
 | TikTok and Media Multitasking | Decision neuroscience research proposal and poster presentation investigating similarities between media multitasking and TikTok use | Figma | [Web](https://ekinderdiyok.github.io/tiktok-and-media-multitasking/) |
 
 ### Data Processing
-Google Apps Script (cloud-based Javascript platform), 
+Google Apps Script (cloud-based Javascript platform), Data Validity, Automation, Web Scraping
 
 ### Marketing
 Google Search Console, Google Analytics 4 (GA4), SEO, Figma (Design), Mailchimp (Email Marketing), Pipedrive (CRM), Webflow (Website CMS), Social Media, Lead Funneling, Event Organization (Vision Pro Community Event), Conference Attendence (AWE USA 2024).
